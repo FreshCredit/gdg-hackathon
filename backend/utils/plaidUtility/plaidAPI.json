@@ -1,0 +1,36 @@
+{
+  "plaid_api": {
+    "getInstitutions": {
+      "method": "POST",
+      "endpoint": "/institutions/get"
+    },
+    "publicTokenWRTInstitution" : {
+      "method": "POST",
+      "endpoint": "/sandbox/public_token/create"
+    },
+     "create_public_token": {
+      "method": "POST",
+      "endpoint": "/item/public_token/exchange"
+    },
+    "token_exchange": {
+      "method": "POST",
+      "endpoint": "/item/public_token/exchange"
+    },
+    "identity": {
+      "method": "POST",
+      "endpoint": "/identity/get"
+    },
+    "balance": {
+      "method": "POST",
+      "endpoint": "/accounts/balance/get"
+    },
+    "transactions": {
+      "method": "POST",
+      "endpoint": "/transactions/get"
+    },
+    "getItem" : {
+      "method" : "POST",
+      "endpoint" : "/item/get"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+    "institutions": [
+        {
+            "country_codes": [],
+            "institution_id": "ins_130958",
+            "name": "Bridge",
+            "oauth": false,
+            "products": [],
+            "routing_numbers": []
+        },
+        {
+            "country_codes": [],
+            "institution_id": "ins_130347",
+            "name": "Chiphone Credit Union",
+            "oauth": true,
+            "products": [],
+            "routing_numbers": []
+        },
+        {
+            "country_codes": [],
+            "institution_id": "ins_130253",
+            "name": "Conservation Employees Credit Union",
+            "oauth": true,
+            "products": [],
+            "routing_numbers": []
+        },
+        {
+            "country_codes": [],
+            "institution_id": "ins_130358",
+            "name": "Equitable Bank",
+            "oauth": true,
+            "products": [],
+            "routing_numbers": []
+        },
+        {
+            "country_codes": [],
+            "institution_id": "ins_130332",
+            "name": "First Community Bank & Trust (IL) - Personal",
+            "oauth": false,
+            "products": [],
+            "routing_numbers": []
+        },
+        {
+            "country_codes": [],
+            "institution_id": "ins_129736",
+            "name": "First National Bank of Pana",
+            "oauth": false,
+            "products": [],
+            "routing_numbers": []
+        },
+        {
+            "country_codes": [],
+            "institution_id": "ins_130088",
+            "name": "GW Wade - MyStreetscape",
+            "oauth": false,
+            "products": [],
+            "routing_numbers": []
+        },
+        {
+            "country_codes": [],
+            "institution_id": "ins_130479",
+            "name": "L.C.E. Credit Union",
+            "oauth": false,
+            "products": [],
+            "routing_numbers": []
+        },
+        {
+            "country_codes": [],
+            "institution_id": "ins_129920",
+            "name": "National Bank of St. Anne",
+            "oauth": false,
+            "products": [],
+            "routing_numbers": []
+        },
+        {
+            "country_codes": [],
+            "institution_id": "ins_130242",
+            "name": "Ocala Community Credit Union",
+            "oauth": true,
+            "products": [],
+            "routing_numbers": []
+        }
+    ]
+}
